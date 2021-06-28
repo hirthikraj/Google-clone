@@ -1,0 +1,28 @@
+    
+    .sideMenu{
+    position: absolute;
+    left: 0px;
+    background-color: white;
+    width: 70%;
+    height: 100%;
+    z-index: 100;
+    border-right: 1px solid lightgrey;
+    transition: all 0.3s ease;
+    }
+    
+    .google-icon{
+        position: absolute;
+        left: 30px;
+        top: -20px;
+        height: 30px;
+    }
+    .close-icon{
+        position: absolute;
+        right: 20px;
+        top:15px;
+        height:35px
+    }
+
+    .show{
+        left: 100px;
+    }
