@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hirthikraj/Google-clone.git/static/css/main.d84ae134.chunk.css",
+    "main.js": "/hirthikraj/Google-clone.git/static/js/main.b276c79e.chunk.js",
+    "main.js.map": "/hirthikraj/Google-clone.git/static/js/main.b276c79e.chunk.js.map",
+    "runtime-main.js": "/hirthikraj/Google-clone.git/static/js/runtime-main.19cfdfb2.js",
+    "runtime-main.js.map": "/hirthikraj/Google-clone.git/static/js/runtime-main.19cfdfb2.js.map",
+    "static/js/2.67ccb95c.chunk.js": "/hirthikraj/Google-clone.git/static/js/2.67ccb95c.chunk.js",
+    "static/js/2.67ccb95c.chunk.js.map": "/hirthikraj/Google-clone.git/static/js/2.67ccb95c.chunk.js.map",
+    "static/js/3.05dbbda5.chunk.js": "/hirthikraj/Google-clone.git/static/js/3.05dbbda5.chunk.js",
+    "static/js/3.05dbbda5.chunk.js.map": "/hirthikraj/Google-clone.git/static/js/3.05dbbda5.chunk.js.map",
+    "index.html": "/hirthikraj/Google-clone.git/index.html",
+    "static/css/main.d84ae134.chunk.css.map": "/hirthikraj/Google-clone.git/static/css/main.d84ae134.chunk.css.map",
+    "static/js/2.67ccb95c.chunk.js.LICENSE.txt": "/hirthikraj/Google-clone.git/static/js/2.67ccb95c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19cfdfb2.js",
+    "static/js/2.67ccb95c.chunk.js",
+    "static/css/main.d84ae134.chunk.css",
+    "static/js/main.b276c79e.chunk.js"
+  ]
+}
